@@ -1,0 +1,20 @@
+body > div > div:nth-child(1) > div > img{
+    margin-top: 10%;
+}
+body > div > div.row.mt-5 > div > h3{
+    margin-top: 10%;
+}
+body > div > div:nth-child(3) > div > button{
+
+    margin-top: 0%;
+    width: 60%;
+   border-radius: 30px;
+  
+   
+}
+body > div > div:nth-child(4) > div > button{
+    
+    width: 60%;
+   border-radius: 30px;
+   background-color: #117B3D;
+}
